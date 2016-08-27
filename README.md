@@ -1,5 +1,5 @@
 قنــــــــــــــــــــاة الســورس
-# [XlZoZalX_1](https://telegram.me/help_telp)
+# [XlZoZalX_1](https://telegram.me/XlZoZalX_1)
 
 
 *******************************************************************
@@ -63,7 +63,7 @@ redis-server
 وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/Joker-development/Joker_development.git && cd Joker_development && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/zozaiq/dev_zoza.git && cd dev_zoza && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -88,9 +88,9 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@XlZoZalX](https://telegram.me/fuck_8_you)
-#Dev_BOT :  [@XlZoZalX_BOT](https://telegram.me/devss_bot)
-#Dev_Channel :  [@XlZoZalX_1](https://telegram.me/help_telp)
+#Dev : [@lll_3](https://telegram.me/lll_3)
+#Dev_BOT :  [@XlZoZalX_BOT](https://telegram.me/XlZoZalX_BOT)
+#Dev_Channel :  [@XlZoZalX_1](https://telegram.me/XlZoZalX_1)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
