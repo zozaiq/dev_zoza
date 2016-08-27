@@ -1,5 +1,5 @@
 قنــــــــــــــــــــاة الســورس
-# [help_telp](https://telegram.me/help_telp)
+# [XlZoZalX_1](https://telegram.me/help_telp)
 
 
 *******************************************************************
@@ -21,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/Joker-development/Joker_development.git
+git clone https://github.com/Joker-development/dev_zoza.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd Joker_development
+cd dev_zoza
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
