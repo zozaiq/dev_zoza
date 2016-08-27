@@ -1,6 +1,6 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
+# Developer : ZoZa < @XlZoZalX >      #Dev
 # our channel: @XlZoZalX_1
 ]]
 do
