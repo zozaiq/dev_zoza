@@ -237,7 +237,7 @@ function create_config( )
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/Joker-development/Joker_development
+https://github.com/zozaiq/dev_zoza
 Admins
 @iwals [Founder]
 @imandaneshi [Developer]
