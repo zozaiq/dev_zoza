@@ -11,7 +11,7 @@ if ( msg.text ) then
 
   if ( msg.to.type == "user" ) then
 
-     return "اضغط ع المعرف للتحدث مع لصنعني \n @devss_bot \n  👾 "
+     return "اضغط ع المعرف للتحدث مع لصنعني \n @XlZoZalC \n  👾 "
      
   end 
    
