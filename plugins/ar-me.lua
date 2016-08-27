@@ -2,7 +2,7 @@ do
 
 local function joker(msg, matches)
 if is_sudo(msg) then 
-        local text = "✅- انت مطور  في الكون ".."\n".."🆔- ايدك/ج : "..msg.from.id.."\n".."🔖- اسمك/ج : "..msg.from.first_name.."\n".."🔤- المعرف : @"..msg.from.username.."\n".."🌐- اسم الكروب  "..msg.to.title --@DevPointTeam
+        local text = "✅- انت مطور  في الكون ".."\n".."🆔- ايدك/ج : "..msg.from.id.."\n".."🔖- اسمك/ج : "..msg.from.first_name.."\n".."🔤- المعرف : @"..msg.from.username.."\n".."🌐- اسم الكروب  "..msg.to.title--@XlZoZalX
         return reply_msg(msg.id, text, ok_cb, false)
      end
 if is_momod(msg) then 
