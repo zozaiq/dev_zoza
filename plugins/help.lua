@@ -1,12 +1,12 @@
 --[[
 # For More Information ....! 
 # Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# our channel: @XlZoZalX_1
 ]]
 do
 
 local function run(msg, matches)
-if is_momod(msg) and matches[1]== "اشمر عيني" then
+if is_momod(msg) and matches[1]== "مساعدة" then
 return [[جميع الاوامر تعمل بدون الاشارات [!#/]❌
 الاوامر العربيه فقط
 ■ (م 1) : اوامر الرئيسية
@@ -38,7 +38,7 @@ return {
 description = "Help list", 
 usage = "Help list",
 patterns = {
-"(اشمر عيني)"
+"(مساعدة)"
 },
 run = run 
 }
