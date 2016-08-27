@@ -5,44 +5,43 @@
 *******************************************************************
 ```sh
 
-# Let's install the bot.
-افتـح ترمنـــأل وخلي 👇🏿 Open Terminal and vinegary
+افتـح ترمنـــأل وخلي ✅🔰
 
 sudo apt-get update 
 
-ورهأَ خلي 👇🏿 And vinegary
+وراهاا خلي ✅🔰
 
 redis-server
-تركه مفتوح✋🏿  Leave it open Terminal
 
-وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
-************************************************************
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
-************************************************************
-ورأهأَ خلي👇🏿
-**************
+اترك الترمنال مفتوح ✅🔰
+
+وافتح ترمنال جديد واكتب ✅🔰
+
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev 
+make unzip git redis-server g++ -y —force-yes
+
+وراها ✅🔰
+
 git clone https://github.com/zozaiq/dev_zoza.git
-*****************************************************
-ورهأ خلي 👇🏿 And vinegary
-**************************
-cd dev_zoza
-**************************
-ورهأَ خلي👇🏿 And vinegary
-**************************
-chmod +x launch.sh
-**************************
-ورهأَ خلي👇🏿 And vinegary
-**************************
-./launch.sh install
-**************************
-ورهأَ خلي👇🏿 And vinegary
-**************************
-./launch.sh 
-**************************
-يطلب رقم خلي رقم البوت ✋🏿😘
-مبروك عليك افضل بوت عل تلي 😍
 
-# Enter a phone number & confirmation code.
+وراها ✅🔰
+
+ cd dev_zoza
+
+وراها ✅🔰
+
+chmod +x launch.sh
+
+وراهاا ✅🔰
+
+./launch.sh install
+
+وراهاا ✅🔰
+
+./launch.sh 
+
+    
+#Enter a phone number & confirmation code.
 Congratulations, you better bot
 ```
 ### One command
