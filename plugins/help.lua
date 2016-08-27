@@ -6,7 +6,7 @@
 do
 
 local function run(msg, matches)
-if is_momod(msg) and matches[1]== "مساعدة" then
+if is_momod(msg) and matches[1]== "اشمر عيني" then
 return [[جميع الاوامر تعمل بدون الاشارات [!#/]❌
 الاوامر العربيه فقط
 ■ (م 1) : اوامر الرئيسية
