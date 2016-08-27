@@ -1,7 +1,7 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : ZoZa < @XlZoZalX >      #Dev
+# our channel: @XlZoZalX_1
 ]]
 do
 
@@ -13,7 +13,7 @@ do
     end
     local text = 'User ID  : '..result.from.peer_id..'\n'
                ..'Username : '..user_name..'\n'
-               ..'CHANEEL BOT: @help_telp'
+               ..'CHANEEL BOT: @XlZoZalX_BOT'
     send_large_msg(extra, text)
   end
 
