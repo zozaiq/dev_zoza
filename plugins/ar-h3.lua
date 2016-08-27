@@ -30,8 +30,8 @@ return [[اوامر المطورين فقط
 🔘صنع مجموعه + اسم لعمل مجموعه جديد وخارقة
  :للتواصل مع المطور
 __________________
-🗯#Dev - @devss_bot
-💭#channel - @help_tele🔘]]
+🗯#Dev - @XlZoZalX
+💭#channel - @XlZoZalX_1🔘]]
 end
 
 if not is_momod(msg) then
